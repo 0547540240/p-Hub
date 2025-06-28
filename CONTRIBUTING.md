@@ -1,20 +1,18 @@
-# 🤝 المساهمة في مشروع Productivity Hub
+Productivity Hub — a smart productivity tool for developers and students.
 
-شكرًا لك على اهتمامك بالمساهمة في مشروع Productivity Hub!  
-يهدف هذا المشروع إلى تنظيم الوقت وزيادة الإنتاجية للمبرمجين والطلاب والمستقلين.
+We welcome all kinds of contributions, including:
 
-## 💡 كيف يمكنك المساعدة؟
-نحن نرحب بجميع أنواع المساهمات، مثل:
+- ✨ New features or improvements
+- 🐞 Bug fixes
+- 🖌️ UI/UX enhancements
+- 📝 Better documentation
+- 💡 Ideas and feedback
 
-- تحسينات في الواجهة أو التصميم
-- إصلاح الأخطاء
-- تحسين الأداء
-- أفكار جديدة أو ميزات إضافية
-- تحسين التوثيق
+---
 
-## 🚀 خطوات البدء
+## 🚀 Getting Started
 
-1. اعمل Fork للمستودع.
-2. أنشئ فرعًا جديدًا لميزة أو تعديل معين:
+1. Fork the repository.
+2. Create a new branch:
    ```bash
-   git checkout -b feature/my-feature
+   git checkout -b feature/your-feature-name
